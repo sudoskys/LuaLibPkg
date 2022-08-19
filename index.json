@@ -12,7 +12,7 @@
       "url": "https://github.com/sudoskys/LuaGitKit/tree/main",
       "mode": "repository",
       "info": "lib",
-      "desc": "AndroLua数据存储缓冲库--适用于Api压力缓解，数据复用 |AndroLua data access library -- suitable for Api data multiplexing"
+      "desc": "AndroLua Github api"
     },
     "yamllib": {
       "version": "1.0.0",
