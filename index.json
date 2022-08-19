@@ -1,0 +1,25 @@
+{
+  "index": {
+    "cachelib": {
+      "version": "1.0.0",
+      "url": "https://gist.githubusercontent.com/sudoskys/8e6426dc3132d25874b947f1809dfb3c/raw/fb65e9bc9d2bac8bc11c4083ac403c65e3b1b8be/Cache.lua",
+      "mode": "lua",
+      "info": "something",
+      "desc": "AndroLua数据存储缓冲库--适用于Api压力缓解，数据复用 |AndroLua data access library -- suitable for Api data multiplexing"
+    },
+    "gitapilib": {
+      "version": "1.0.0",
+      "url": "https://github.com/sudoskys/LuaGitKit/tree/main",
+      "mode": "repository",
+      "info": "lib",
+      "desc": "AndroLua数据存储缓冲库--适用于Api压力缓解，数据复用 |AndroLua data access library -- suitable for Api data multiplexing"
+    },
+    "yamllib": {
+      "version": "1.0.0",
+      "url": "https://gist.githubusercontent.com/sudoskys/5ef0e9994a93d8c3c57f258d481f4224/raw/b2c3a1a23111d72124ed989713faeecbb020b008/Yamlkit.lua",
+      "mode": "lua",
+      "info": "something",
+      "desc": "test"
+    }
+  }
+}
